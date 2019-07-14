@@ -1,2 +1,2 @@
-# Starter Codes
-Starter codes that provide a template for creating simple web apps to complex React-Redux web apps.
+# Starter Templates
+Starter templates which can be reused for rapid web application development.
